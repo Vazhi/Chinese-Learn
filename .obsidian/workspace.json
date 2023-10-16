@@ -128,13 +128,21 @@
                 "file": "L1.md"
               }
             }
+          },
+          {
+            "id": "36ce6052fbe11f5f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,7 +151,8 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "dbea00a6fe73242b",
